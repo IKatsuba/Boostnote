@@ -103,7 +103,7 @@
     "devtron": "^1.1.0",
     "dom-storage": "^2.0.2",
     "electron-packager": "^6.0.0",
-    "electron": "^1.6.15",
+    "electron": "^22.3.25",
     "eslint": "^3.13.1",
     "eslint-config-standard": "^6.2.1",
     "eslint-config-standard-jsx": "^3.2.0",
